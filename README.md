@@ -1,5 +1,7 @@
 # Semantic Kernel - ChatHistory 사용 예제
 
+🔗 **관련 블로그 포스팅**: [https://keistory.tistory.com/1741](https://keistory.tistory.com/1741)
+
 이 프로젝트는 [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel)의 `ChatHistory` 기능을 활용하여, 대화형 문맥을 유지하는 간단한 챗봇 예제입니다.
 
 ## 📘 소개
